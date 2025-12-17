@@ -38,7 +38,7 @@ Expo CLI installed (npm install -g expo-cli)
 Clone the project
 
 ```bash
-  git clone https://github.com/Benjilo12/React-Native-Auth.git
+  https://github.com/Benjilo12/React-Native-Auth.git
 ```
 
 Install dependencies

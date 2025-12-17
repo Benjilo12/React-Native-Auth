@@ -56,5 +56,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Benjilo12/React-Native-Auth/blob/ba69956bd01a677a58ec6c3e10bd8f09a3cb76d1/Screenshot_1764928175.png)
+![App Screenshot](https://github.com/Benjilo12/React-Native-Auth/blob/ba69956bd01a677a58ec6c3e10bd8f09a3cb76d1/Screenshot_1764928182.png)
 
